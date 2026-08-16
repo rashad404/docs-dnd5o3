@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-otklh1.trans88.online/sitemap.xml
